@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+ul {
+    list-style-type: none;
+}

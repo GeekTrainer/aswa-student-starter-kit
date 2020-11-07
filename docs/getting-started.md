@@ -67,7 +67,7 @@ Let's setup our deployment! [Azure Static Web Apps](https://docs.microsoft.com/a
 - In the dialog box, provide the following information as prompted
   - Name of your site
   - Name of the branch (main by default)
-  - **/** for the location of your application code (where the client code resides)
+  - **/** for the location of your app (The root clients will use when connecting)
   - **/api** for the location of your Azure Functions code
   - **public** for the location your client code
   - Choose a region near you

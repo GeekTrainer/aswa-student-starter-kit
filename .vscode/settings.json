@@ -9,5 +9,6 @@
         "enable": true,
         "baseUri": "/api",
         "proxyUri": "http://127.0.0.1:7071/api"
-    }
+    },
+    "liveServer.settings.root": "/public"
 }

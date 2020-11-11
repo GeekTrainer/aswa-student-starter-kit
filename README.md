@@ -20,8 +20,8 @@ We've provided the necessary steps to configure and deploy the site, as well as 
 - [Getting started and deploying the website](docs/getting-started.md)
 - [Configuring and deploying the database](docs/configuring-database.md)
 - [Exploring the code](docs/exploring-code.md)
-- [Updating the code](docs/updating-code.md)
-- [Troubleshooting](docs/troubleshooting.md)
+- [Running the code locally and making updates](docs/local-dev.md)
+- [Troubleshooting and resources](docs/troubleshooting-and-resources.md)
 
 ## Creating GitHub and Azure accounts
 

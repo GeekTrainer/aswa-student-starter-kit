@@ -15,7 +15,7 @@ We need to complete the following steps:
 
 In our [getting started](getting-started.md) section we installed the [Azure Databases](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) extension. We'll use the extension to create our resources.
 
-1. Click the Azure icon on your toolbar in Azure.
+1. Click the Azure icon on your toolbar in Azure
 
 ![Azure icon](images/Azure.png)
 

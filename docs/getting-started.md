@@ -67,6 +67,7 @@ Let's setup our deployment! [Azure Static Web Apps](https://docs.microsoft.com/a
 - In the dialog box, provide the following information as prompted
   - Name of your site
   - Name of the branch (main by default)
+  - **custom** for the build preset
   - **public** for the location of your app
   - **api** for the location of your Azure Functions code
   - Empty the location of your client code (it's already built, so no special folder is needed)

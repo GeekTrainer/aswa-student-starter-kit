@@ -1,6 +1,6 @@
 # Setting up the database
 
-With our website created and deployed, it's time to turn our attention to the database. We're going to setup [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) with a Mongo API, which will behave like Mongo DB. This will allow us to use [Mongoose](https://mongoosejs.com/), a popular data mapping tool, to work with our data in our application.
+With our website created and deployed, it's time to turn our attention to the database. We're going to setup [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=academic-38860-chrhar) with a Mongo API, which will behave like Mongo DB. This will allow us to use [Mongoose](https://mongoosejs.com/), a popular data mapping tool, to work with our data in our application.
 
 We need to complete the following steps:
 
@@ -13,7 +13,7 @@ We need to complete the following steps:
 
 ## Create the server
 
-In our [getting started](getting-started.md) section we installed the [Azure Databases](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) extension. We'll use the extension to create our resources.
+In our [getting started](getting-started.md) section we installed the [Azure Databases](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb?WT.mc_id=academic-38860-chrhar) extension. We'll use the extension to create our resources.
 
 1. Click the Azure icon on your toolbar in Azure
 

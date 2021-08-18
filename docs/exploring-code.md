@@ -36,7 +36,7 @@ This contains the logic for the client side. The code is heavily commented, but 
 
 ## api
 
-**api** contains the server side code. Our server-side code is written using [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview), which is part of [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview). It follows the [standard folder structure for an Azure Function](https://docs.microsoft.com/azure/azure-functions/functions-reference#folder-structure). Here are the key files which make up the server-side code.
+**api** contains the server side code. Our server-side code is written using [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=academic-38860-chrhar), which is part of [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-38860-chrhar). It follows the [standard folder structure for an Azure Function](https://docs.microsoft.com/azure/azure-functions/functions-reference#folder-structure?WT.mc_id=academic-38860-chrhar). Here are the key files which make up the server-side code.
 
 ### package.json
 
@@ -48,7 +48,7 @@ This was introduced when we [configured our database](configuring-database.md). 
 
 ### tasks/function.json
 
-**[function.json](https://docs.microsoft.com/azure/azure-functions/functions-reference#function-code)** is the configuration file used for a function. It contains a list of [bindings](https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=javascript#example), which indicate how our function can be called, and what information will be passed in.
+**[function.json](https://docs.microsoft.com/azure/azure-functions/functions-reference#function-code)** is the configuration file used for a function. It contains a list of [bindings](https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=javascript#example&WT.mc_id=academic-38860-chrhar), which indicate how our function can be called, and what information will be passed in.
 
 The key settings in our **function.json**:
 
@@ -56,7 +56,7 @@ The key settings in our **function.json**:
   - **GET**: Returns all items
   - **POST**: Create new item
   - **PUT**: Update item
-- `route`: Similar to creating routes in Express or Restify, we register routes in our function by using a path string. You can [customize the route](https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=javascript#configuration) to add additional parameters as needed.
+- `route`: Similar to creating routes in Express or Restify, we register routes in our function by using a path string. You can [customize the route](https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=javascript#configuration&WT.mc_id=academic-38860-chrhar) to add additional parameters as needed.
 
 ### tasks/index.js
 

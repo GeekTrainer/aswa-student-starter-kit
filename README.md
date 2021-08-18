@@ -8,9 +8,9 @@ This starter kit is designed to help get you up and running with one of the most
 
 The sample site is a basic task manager. You have the ability to add tasks to a list, and then check or uncheck them to mark them as completed. It is built with the following technologies:
 
-- Hosting: [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview)
-- Database: [Azure Cosmos DB (with MongoDB API)](https://docs.microsoft.com/azure/cosmos-db/mongodb-introduction)
-- Server API: JavaScript/Node.js on [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview) (hosted in Azure Static Web Apps)
+- Hosting: [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-38860-chrhar)
+- Database: [Azure Cosmos DB (with MongoDB API)](https://docs.microsoft.com/azure/cosmos-db/mongodb-introduction?WT.mc_id=academic-38860-chrhar)
+- Server API: JavaScript/Node.js on [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=academic-38860-chrhar) (hosted in Azure Static Web Apps)
 - Data library: [Mongoose](https://mongoosejs.com/)
 
 ## Setup steps
@@ -25,8 +25,8 @@ We've provided the necessary steps to configure and deploy the site, as well as 
 
 ## Creating GitHub and Azure accounts
 
-Azure Static Web Apps integrates with GitHub via [GitHub Actions](https://github.com/features/actions). As such, we'll need both Azure and GitHub accounts. If you're a student, there are a host of free 
+Azure Static Web Apps integrates with GitHub via [GitHub Actions](https://github.com/features/actions). As such, we'll need both Azure and GitHub accounts. If you're a student, there are a host of free services available with [Azure for Students](https://aka.ms/a4s?WT.mc_id=academic-38860-chrhar)!
 
-- [Sign up for GitHub Student Developer Pack](https://education.github.com/pack), which grants access to GitHub Pro for free and numerous third party offers
-- [Sign up for Azure for Students](https://aka.ms/a4s), which includes $100 in free credit you can use over the course of the year, and access to several free services
-  - If you're not a student, you can still [access $200 on Azure](https://azure.microsoft.com/free) (valid for 30 days)
+- [Sign up for GitHub Student Developer Pack](https://education.github.com/pack?WT.mc_id=academic-38860-chrhar), which grants access to GitHub Pro for free and numerous third party offers
+- [Sign up for Azure for Students](https://aka.ms/a4s?WT.mc_id=academic-38860-chrhar), which includes $100 in free credit you can use over the course of the year, and access to several free services
+  - If you're not a student, you can still [access $200 on Azure](https://azure.microsoft.com/free?WT.mc_id=academic-38860-chrhar) (valid for 30 days)

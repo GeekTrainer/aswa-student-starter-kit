@@ -1,14 +1,12 @@
 # Resources
 
-## Resources
-
 If you are looking to learn more about the products and frameworks used in this sample, you can check out the following:
 
 - [Mongoose](https://mongoosejs.com/)
-- [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
-- [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview)
-- [Cosmos DB with MongoDB API](https://docs.microsoft.com/azure/cosmos-db/mongodb-introduction)
-- [Azure Static Web App Samples](https://github.com/microsoft/static-web-apps-gallery-code-samples)
+- [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=academic-38860-chrhar)
+- [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-38860-chrhar)
+- [Cosmos DB with MongoDB API](https://docs.microsoft.com/azure/cosmos-db/mongodb-introduction?WT.mc_id=academic-38860-chrhar)
+- [Azure Static Web App Samples](https://github.com/microsoft/static-web-apps-gallery-code-samples?WT.mc_id=academic-38860-chrhar)
 
 ## Troubleshooting
 
